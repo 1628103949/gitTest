@@ -1,0 +1,9 @@
+virtualenv --no-site-packages -p /usr/bin/python2.7 venv
+docker container rm spug
+面板地址:http://120.79.114.205:8888/55b36bbe
+用户名:eaidpnfp
+密码:453ea2bf
+
+
+
+
